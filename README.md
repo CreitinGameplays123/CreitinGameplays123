@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem-Vindo ao meu perfil do GitHub
 
-<!--
-**CreitinGameplays123/CreitinGameplays123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Cleiton Santos
+- Tenho 15 anos de idade
+- Moro no estado da Bahia
 
-Here are some ideas to get you started:
+_não sou programador, tenho poucos conhecimentos sobre programação, mas quem sabe no futuro eu saiba programar lmao_
+- gosto de brincar com máquinas virtuais, fazer experiências e ~por vírus nelas~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Meu site :* https://quem-leu-eh.viado.cf 
+
+
+_por enquanto é isso_
