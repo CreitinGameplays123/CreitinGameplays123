@@ -1,3 +1,8 @@
+---------------------
+<img src="image0.jpg" alt="no_way">
+
+--------------------- 
+
 # Bem-Vindo ao meu perfil do GitHub
 
 - Meu nome é Cleiton Santos
