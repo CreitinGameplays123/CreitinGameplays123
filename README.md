@@ -12,7 +12,4 @@
 _não sou programador, tenho poucos conhecimentos sobre programação, mas quem sabe no futuro eu saiba programar lmao_
 - gosto de brincar com máquinas virtuais, fazer experiências e ~por vírus nelas~
 
-*Meu site :* https://quem-leu-eh.viado.cf 
-
-
 _por enquanto é isso_
