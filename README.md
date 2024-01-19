@@ -6,7 +6,7 @@
 # Bem-Vindo ao meu perfil do GitHub
 
 - Meu nome é Cleiton Santos
-- Tenho 16 anos de idade
+- Tenho 17 anos de idade
 - Moro no estado da Bahia
 
 _não sou programador, tenho poucos conhecimentos sobre programação, mas quem sabe no futuro eu saiba programar lmao_
